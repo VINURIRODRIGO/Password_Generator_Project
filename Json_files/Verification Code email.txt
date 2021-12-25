@@ -1,0 +1,15 @@
+Hi [name],
+
+We received a request to access your PassReg Account via your [email] email address.
+Your PassReg Verification Code:
+
+	[code]
+
+If you did not request this code, someone else may be trying to access your PassReg account.
+Do not forward or give this code to anyone.
+
+You received this message because the [email] address requests to change your PassReg Account password.
+If that is incorrect, please change your PassReg Account password.
+
+Sincerely yours,
+The PassReg Accounts team
