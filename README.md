@@ -23,6 +23,7 @@ Install pandas package.
 ```
 pip install pandas 
 ```
+Install smtplib package.
 ```
 pip install secure-smtplib
 ```
